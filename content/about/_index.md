@@ -4,63 +4,54 @@ date: 2020-10-20T17:51:47+03:30
 draft: false
 headless: true
 
-full_name: "Guangyuan Weng"
-profile_picture: "profile.png"
-cv: "cv.pdf"
+full_name: "Guangyuan Weng "
+profile_picture: "profile.jpg"
+cv: "CV_Weng.pdf"
 # set to false if you don't want to show your blog
 blog: true
 
 socials:
-    twitter: "YOUR_NAME"
-    github: "YOUR_NAME"
-    facebook: "YOUR_NAME"
-    linkedin: "YOUR_NAME"
-    twitch: "YOUR_NAME"
-    google_scholar: "YOUR_NAME"
+    twitter: "GuangyuanWeng"
+    github: "turtleman99"
+    linkedin: "guangyuan-weng-a97838166"
+    google_scholar: "citations?hl=en&user=A7Aqv0cAAAAJ"
 
 interests:
-    - Data Intensive Systems
-    - Distributed Systems
-    - Data Streaming Platforms
-    - Large-Scale Data Processing Platforms
+    - Compositional Visual Reasoning
+    - Egocentric Vision
+    - Artificial Intelligence
 
 affiliations:
     - affiliation:
-        title: "Ph.D."
-        name: "Stanford University"
-        email: "email@cs.stanford.edu"
-    - affiliation:
-        title: "CEO & Co-Founder"
-        name: "The Coolest Startup In the World"
-        email: "email@mycoolstartup.ai"
+        title: "Ph.D. Student"
+        name: "Northeastern University"
+        email: "gweng.aca AT gmail.com"
 
 academia:
     - course:
         degree: "Ph.D."
-        institution:  "Stanford University"
-        major: "Data Systems"
+        institution:  "Northeastern University"
+        major: "Computer Science"
         start_date: "2021"
     - course:
-        degree: "M.Sc."
-        institution: 'Sharif University of Technology'
-        major: 'Software Engineering'
-        start_date: '2013'
-        end_date: '2016'
-        other_info: 'graduated without first class honor, supervised by Prof. Very Cool!'
-    - course:
-        degree: "B.Sc."
-        institution: 'University of Kashan'
-        major: 'Software Engineering'
-        minor: 'Statistics'
-        start_date: '2009'
-        end_date: '2013'
-        other_info: 'graduated with first class honor, supervised by Prof.  Cool!'
+        degree: "B.E."
+        institution: 'ShanghaiTech University'
+        major: 'Computer Science'
+        start_date: '2017'
+        end_date: '2021'
+        # other_info: 'graduated without first class honor, supervised by Prof. Very Cool!'
 ---
 
-**Donec** sollicitudin, [ante][1] pulvinar tincidunt luctus, dolor mauris lobortis ex, id tincidunt metus risus nec ex. Curabitur magna mauris, facilisis vitae porttitor vitae, tincidunt sed mi. In at dui lectus. Integer ante arcu, vestibulum fermentum ante eu, maximus maximus quam. Curabitur placerat cursus posuere. Phasellus dui lorem, varius a augue non, eleifend accumsan mauris. Aenean varius posuere feugiat. In hac habitasse platea dictumst. Aenean quis ex quis nisl consequat fermentum in vitae nunc. Proin consectetur ac nulla in tempus. Maecenas enim nisi, pulvinar sit amet fermentum eget, ultrices vitae enim. Etiam vel sollicitudin felis.
+I am Guangyuan Weng (<font face=STKaiti>翁光源</font>), a second-year Ph.D. student in Computer Science at [Northeastern University][1], advised by [Prof. Huaizu Jiang][2]. My research interest lies broadly in computer vision, including compositional reasoning and egocentric vision. I work on metric and representation learning for visual reasoning, enhancing the vision model with inductive capability.
 
 
-Donec sollicitudin, ante pulvinar tincidunt luctus, dolor mauris lobortis ex, id tincidunt metus risus nec ex. Curabitur magna mauris, facilisis vitae porttitor vitae, 
+Before joining Northeastern University, I was a research intern in [IU Computer Vision Lab][3], supervised by [Prof. David J. Crandall][4]. Before that, I worked with [Prof. Sören Schwertfeger][5] as a research assistant at [The Mobile Autonomous Robotic Systems Lab][6]. I obtained my B.E. degree from [ShanghaiTech University][7] in July 2021.
 
 
-[1]: ahadsfsa.com
+[1]: https://www.northeastern.edu/
+[2]: https://jianghz.me/
+[3]: http://vision.soic.indiana.edu/
+[4]: https://homes.luddy.indiana.edu/djcran/
+[5]: https://robotics.shanghaitech.edu.cn/people/soeren
+[6]: https://robotics.shanghaitech.edu.cn/
+[7]: https://www.shanghaitech.edu.cn/eng/
