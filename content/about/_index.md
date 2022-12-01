@@ -5,7 +5,7 @@ draft: false
 headless: true
 
 full_name: "Guangyuan Weng "
-profile_picture: "profile.jpg"
+profile_picture: "profile.png"
 cv: "CV_Weng.pdf"
 # set to false if you don't want to show your blog
 blog: true
