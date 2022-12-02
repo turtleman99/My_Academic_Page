@@ -4,14 +4,14 @@ authors:
   - Hongyu Chen
   - Xiting Zhao
   - Jianwen Luo
-  - Zhijie Yang
+  - "[Zhijie Yang](https://scholar.google.com/citations?user=PoMavK4AAAAJ&hl=zh-CN)"
   - Zehao Zhao
   - Haochuan Wan
   - Xiaoya Ye
-  - Guangyuan Weng
+  - "**[Guangyuan Weng](https://gweng.netlify.app/)**"
   - Zhenpeng He 
   - Tian Dong
-  - Sören Schwertfeger
+  - "[Sören Schwertfeger](https://robotics.shanghaitech.edu.cn/people/soeren)"
 date: "2019-05-01"
 
 publication: "IEEE Conference on Robotics and Automation (ICRA) 2019 workshop"

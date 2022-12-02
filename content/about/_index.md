@@ -32,13 +32,13 @@ academia:
         degree: "Ph.D."
         institution:  "Northeastern University"
         major: "Computer Science"
-        start_date: "2021"
+        start_date: "Sept. 2021"
     - course:
         degree: "B.E."
         institution: 'ShanghaiTech University'
         major: 'Computer Science'
-        start_date: '2017'
-        end_date: '2021'
+        start_date: 'Sept. 2017'
+        end_date: 'July 2021'
         # other_info: 'graduated without first class honor, supervised by Prof. Very Cool!'
 ---
 

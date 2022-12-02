@@ -31,7 +31,7 @@
                 {{ if $authors }}
                 {{range $i, $author := $authors}}
                 <span>
-                    {{$author}}
+                    {{ markdownify (emojify $author) }}
                 </span>
                 {{ if lt $i (sub (len $authors) 1)}}
                 <span class="separator">
@@ -49,7 +49,7 @@
                 {{range $link_name, $link_url := $links}}
                     {{ if $link_url }}
                 <a class="main_color text-decoration-none rounded" href="{{$link_url}}" target="_blank">
-                    {{$link_name}}
+                    {{ markdownify (emojify $link_name) }}
                 </a>
                     {{end}}
                 {{end}}
