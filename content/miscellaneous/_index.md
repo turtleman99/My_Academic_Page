@@ -12,7 +12,7 @@ num_news: 5
 
 news_items:
 - text: Those who sow in tears shall reap with shouts of joy!
-  extra_text: "(Psalms126:5 ESV)"
+  extra_text: "(Psalms 126:5 ESV)"
   date: 2020-02-20
 # - text: Merit Students (Top 5%)
 #   extra_text: "ShanghaiTech University, 2020"
