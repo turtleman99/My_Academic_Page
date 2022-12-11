@@ -19,7 +19,7 @@ socials:
 interests:
     - Compositional Visual Reasoning
     - Egocentric Vision
-    - Artificial Intelligence
+    - Machine Learning
 
 affiliations:
     - affiliation:
