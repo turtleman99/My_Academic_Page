@@ -44,6 +44,7 @@
         {{ $twitch := index $aboutPage.Params.socials "twitch"}}
         {{ $github := index $aboutPage.Params.socials "github"}}
         {{ $linkedin := index $aboutPage.Params.socials "linkedin"}}
+        {{ $instagram := index $aboutPage.Params.socials "instagram"}}
         {{ $cv := $aboutPage.Params.cv }}
         <!-- {{ $blog := $aboutPage.Params.blog}} -->
 
@@ -51,12 +52,6 @@
         {{if $google_scholar}}
         <a class="main_color" rel="me" href='https://scholar.google.com/{{$google_scholar}}' target="_blank">
             <i class="ai ai-2x ai-google-scholar academic_icons_customize"></i>
-        </a>
-        {{end}}
-
-        {{ if $github }}
-        <a class="main_color" rel="me" href='https://github.com/{{$github}}' target="_blank">
-            <i data-feather="github"></i>
         </a>
         {{end}}
 
@@ -83,6 +78,19 @@
             <i data-feather="twitch"></i>
         </a>
         {{end}}
+
+        {{ if $github }}
+        <a class="main_color" rel="me" href='https://github.com/{{$github}}' target="_blank">
+            <i data-feather="github"></i>
+        </a>
+        {{end}}
+
+        {{ if $instagram }}
+        <a class="main_color" rel="me" href='https://www.instagram.com/{{$instagram}}' target="_blank">
+            <i data-feather="instagram"></i>
+        </a>
+        {{end}}
+
 
         {{if $cv}}
         <a class="main_color" href='{{$cv}}' target="_blank">

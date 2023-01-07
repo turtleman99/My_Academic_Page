@@ -15,6 +15,7 @@ socials:
     github: "turtleman99"
     linkedin: "guangyuan-weng-a97838166"
     google_scholar: "citations?hl=en&user=A7Aqv0cAAAAJ"
+    instagram: "gideon.weng"
 
 interests:
     - Compositional Visual Reasoning
