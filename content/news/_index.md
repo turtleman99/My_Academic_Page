@@ -11,6 +11,9 @@ default_news_icon: "file-text"
 num_news: 5
 
 news_items:
+- text: I'll be with [Wormpex AI Researh](http://research.wormpex.com/) this summer, working with [Dr. Gang Hua](https://www.ganghua.org/). Come and say hi to me if you'll be around Seattle/Bellevue during the summer!
+  extra_text: "Jan. 2023."
+  date: 2021-11-20
 - text: "One paper accepted to ICDL"
   extra_text: "July 2022."
   date: 2021-11-20
