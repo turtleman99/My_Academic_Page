@@ -11,10 +11,13 @@ default_news_icon: "file-text"
 num_news: 5
 
 news_items:
-- text: I'll be with [Wormpex AI Research](http://research.wormpex.com/) this summer, working with [Dr. Gang Hua](https://www.ganghua.org/). Come and say hi to me if you'll be around Seattle/Bellevue!
+- text: Starting internship at [Wormpex AI Research](http://research.wormpex.com/), thank [Haoxiang Li](http://blog.haoxiang.org/haoxiang.html), [Bo Liu](https://scholar.google.com/citations?user=NOgz-HsAAAAJ&hl=en), and [Gang Hua](https://www.ganghua.org/) for hosting me.
+  extra_text: "May 2023."
+  date: 2021-11-20
+- text: I'll be with [Wormpex AI Research](http://research.wormpex.com/) this summer. Come and say hi to me if you'll be around Seattle/Bellevue!
   extra_text: "Jan. 2023."
   date: 2021-11-20
-- text: "One paper accepted to ICDL"
+- text: One [paper](https://arxiv.org/abs/2208.07344) is accepted to IEEE ICDL'22
   extra_text: "July 2022."
   date: 2021-11-20
 - text: "Joined Visual Intelligence Lab at Northeastern!"
