@@ -11,7 +11,7 @@ default_news_icon: "file-text"
 num_news: 5
 
 news_items:
-- text: Starting internship at [Wormpex AI Research](http://research.wormpex.com/), thank [Haoxiang Li](http://blog.haoxiang.org/haoxiang.html), [Bo Liu](https://scholar.google.com/citations?user=NOgz-HsAAAAJ&hl=en), and [Gang Hua](https://www.ganghua.org/) for hosting me.
+- text: Starting internship at [Wormpex AI Research](http://research.wormpex.com/), thank [Dr. Bo Liu](https://scholar.google.com/citations?user=NOgz-HsAAAAJ&hl=en), [Dr. Haoxiang Li](http://blog.haoxiang.org/haoxiang.html), and [Dr. Gang Hua](https://www.ganghua.org/) for hosting me.
   extra_text: "May 2023."
   date: 2021-11-20
 - text: I'll be with [Wormpex AI Research](http://research.wormpex.com/) this summer. Come and say hi to me if you'll be around Seattle/Bellevue!
