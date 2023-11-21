@@ -20,14 +20,14 @@ news_items:
 - text: One [paper](https://arxiv.org/abs/2208.07344) is accepted to IEEE ICDL'22
   extra_text: "July 2022."
   date: 2021-11-20
-- text: "Joined Visual Intelligence Lab at Northeastern!"
-  link: https://jianghz.me/
-  extra_text: "Sept. 2021."
-  date: 2021-09-01
 - text: "Graduated from ShanghaiTech!"
   link: https://www.shanghaitech.edu.cn/eng/2021/0706/c1260a67366/page.htm
   extra_text: "July 2021."
   date: 2021-07-01
+# - text: "Joined Visual Intelligence Lab at Northeastern!"
+#   link: https://jianghz.me/
+#   extra_text: "Sept. 2021."
+#   date: 2021-09-01
 # - text: "How to write a good paper?"
 #   link: https://https://feathericons.com//
 #   extra_text: "HotOS'19."
