@@ -18,9 +18,9 @@ socials:
     instagram: "gideon.weng"
 
 interests:
-    - Machine Learning
-    - Data Mining
     - Computational Social Science
+    - Data Mining
+    - Deep Learning
 
 affiliations:
     - affiliation:
@@ -43,13 +43,17 @@ academia:
         # other_info: 'graduated without first class honor, supervised by Prof. Very Cool!'
 ---
 
-I am Guangyuan Weng (<font face=STKaiti>翁光源</font>), a Ph.D. student in Computer Science at [Northeastern University][1]. My research interest lies broadly in machine learning, data mining and computational social science. I used to work on metric and representation learning for visual reasoning, enhancing the vision model with inductive capability.
+I am Guangyuan Weng (<font face=STKaiti>翁光源</font>), a Ph.D. student in Computer Science at [Northeastern University][1]. 
+My research interest lies broadly in computational social science, data mining, and deep learning.
+I am particularly fascinated by the intricate relationship between human mobility and urban economies and aspire to explore this area in depth. 
+Previously, my focus was on advancing long-tail image recognition and enhancing visual reasoning through representation learning.
 
-Before joining Northeastern University, I was a research intern in [IU Computer Vision Lab][3], supervised by [Prof. David J. Crandall][4]. Before that, I worked with [Prof. Sören Schwertfeger][5] as a research assistant at [The Mobile Autonomous Robotic Systems Lab][6]. I obtained my B.E. degree from [ShanghaiTech University][7] in July 2021.
 
+Prior to Northeastern, I gained valuable experience as a research intern at the [IU Computer Vision Lab][3] under the mentorship of [Prof. David J. Crandall][4]. 
+Before that, I worked with [Prof. Sören Schwertfeger][5] as a research assistant at [The Mobile Autonomous Robotic Systems Lab][6]. 
+My academic roots trace back to [ShanghaiTech University][7], where I completed my B.E. degree in July 2021.
 
 [1]: https://www.northeastern.edu/
-[2]: https://jianghz.me/
 [3]: http://vision.soic.indiana.edu/
 [4]: https://homes.luddy.indiana.edu/djcran/
 [5]: https://robotics.shanghaitech.edu.cn/people/soeren
