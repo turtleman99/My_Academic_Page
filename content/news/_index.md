@@ -11,6 +11,10 @@ default_news_icon: "file-text"
 num_news: 5
 
 news_items:
+- text: One paper is accepted to [IC2S2'2024](https://ic2s2-2024.org) as a plenary talk (2.8%)
+  extra_text: "Apr. 2024."
+- text: Invited to [SICSS-Penn'2024](https://sicss.io/2024/penn/) (about 20 invitees). See you in Philadelphia in July!
+  extra_text: "Apr. 2024."
 - text: Starting internship at [Wormpex AI Research](http://research.wormpex.com/), thank [Dr. Bo Liu](https://scholar.google.com/citations?user=NOgz-HsAAAAJ&hl=en), [Dr. Haoxiang Li](http://blog.haoxiang.org/haoxiang.html), and [Dr. Gang Hua](https://www.ganghua.org/) for hosting me.
   extra_text: "May 2023."
   date: 2021-11-20
