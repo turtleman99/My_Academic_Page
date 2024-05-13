@@ -11,8 +11,16 @@ default_news_icon: "file-text"
 num_news: 5
 
 news_items:
+- text: CS 4520 Mobile Application Development (TA)
+  extra_text: "24 Summer 1"
+  date: 2021-11-20
+  icon: "smartphone"
+- text: CS 5520 Mobile Application Development (TA)
+  extra_text: "24 Spring"
+  date: 2021-11-20
+  icon: "smartphone"
 - text: CS5330 Pattern Recognition and Computer Vision (TA)
-  extra_text: "[21 Fall](https://jianghz.me/teaching/cs5330/fall2021/), 22 Fall"
+  extra_text: "21 Fall, 22 Fall"
   date: 2021-11-20
   icon: "eye"
 - text: "Penn AI Robotics Summer Camp (TA)"
