@@ -16,7 +16,7 @@ news_items:
   date: 2021-11-20
   icon: "smartphone"
 - text: CS 5520 Mobile Application Development (TA)
-  extra_text: "24 Spring"
+  extra_text: "24 Spring, 24 Fall"
   date: 2021-11-20
   icon: "smartphone"
 - text: CS5330 Pattern Recognition and Computer Vision (TA)
