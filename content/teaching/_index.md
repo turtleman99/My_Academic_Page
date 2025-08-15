@@ -20,7 +20,7 @@ news_items:
   date: 2021-11-20
   icon: "smartphone"
 - text: CS 4520 Mobile Application Development (TA)
-  extra_text: " Summer 1 2024"
+  extra_text: "Summer 1 2024"
   date: 2021-11-20
   icon: "smartphone"
 - text: CS 5330 Pattern Recognition and Computer Vision (TA)

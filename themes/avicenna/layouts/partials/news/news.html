@@ -12,6 +12,7 @@
 {{ $news_icon := $default_news_icon }}
 
 {{ $num_news_to_show := $newsPage.Params.num_news }}
+{{ $total_news := len (sort $news_items "date" "desc") }}
 <div class="news row w-100">
     <div class="col w-100">
         <ul class="news_list">
@@ -40,5 +41,53 @@
             </li>
             {{ end }}
         </ul>
+        
+        {{ if gt $total_news $num_news_to_show }}
+        <ul class="news_list" id="older-news" style="display: none;">
+            {{ range $item := after $num_news_to_show (sort $news_items "date" "desc") }}
+            {{ if $item.icon }}
+            {{ $news_icon = $item.icon }}
+            {{ end }}
+
+            <li>
+                {{ if $show_news_icons }}
+                <i data-feather="{{ $news_icon }}"></i>
+                {{ end }}
+
+                {{ if $item.link}}
+                <a href='{{ $item.link }}' target="_blank">
+                    {{ markdownify (emojify $item.text) }}
+                </a>
+                {{ else }}
+                {{ markdownify (emojify $item.text) }}
+                {{ end }}
+
+                {{ if $item.extra_text }}
+                <span class="secondary_font text-muted"> {{ markdownify (emojify $item.extra_text) }}</span>
+                {{end}}
+
+            </li>
+            {{ end }}
+        </ul>
+        
+        <button id="expand-news-btn" class="btn btn-link text-muted p-0 mt-2" onclick="toggleOlderNews()">
+            <small>Click to expand previous news</small>
+        </button>
+        {{ end }}
     </div>
 </div>
+
+<script>
+function toggleOlderNews() {
+    const olderNews = document.getElementById('older-news');
+    const expandBtn = document.getElementById('expand-news-btn');
+    
+    if (olderNews.style.display === 'none') {
+        olderNews.style.display = 'block';
+        expandBtn.innerHTML = '<small>Click to collapse previous news</small>';
+    } else {
+        olderNews.style.display = 'none';
+        expandBtn.innerHTML = '<small>Click to expand previous news</small>';
+    }
+}
+</script>

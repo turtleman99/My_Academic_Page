@@ -10,10 +10,10 @@ publication: "Journal of Machine Learning"
 # You can have multiple links
 # format is, LINK_NAME : LINK_URL
 links:
-    pdf: https://github.com/hadisinaee/avicenna
-    code: https://github.com/hadisinaee/avicenna
-    slides: https://github.com/hadisinaee/avicenna
-    video: https://github.com/hadisinaee/avicenna
+    PDF: https://github.com/hadisinaee/avicenna
+    Code: https://github.com/hadisinaee/avicenna
+    Slides: https://github.com/hadisinaee/avicenna
+    Video: https://github.com/hadisinaee/avicenna
 
 ---
 

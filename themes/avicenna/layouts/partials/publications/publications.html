@@ -46,11 +46,26 @@
             {{ $links := $page.Params.links }}
             {{ if $links }}
             <div class="section-3  w-100">
+                {{ $link_count := 0 }}
                 {{range $link_name, $link_url := $links}}
                     {{ if $link_url }}
-                <a class="main_color text-decoration-none rounded" href="{{$link_url}}" target="_blank">
-                    {{ markdownify (emojify $link_name) }}
-                </a>
+                        {{ if gt $link_count 0 }}<span class="text-muted"> </span>{{ end }}
+                        {{ $display_name := $link_name }}
+                        {{ if eq (lower $link_name) "pdf" }}
+                            {{ $display_name = "PDF" }}
+                        {{ else if eq (lower $link_name) "doi" }}
+                            {{ $display_name = "DOI" }}
+                        {{ else if eq (lower $link_name) "code" }}
+                            {{ $display_name = "Code" }}
+                        {{ else if eq (lower $link_name) "slides" }}
+                            {{ $display_name = "Slides" }}
+                        {{ else if eq (lower $link_name) "video" }}
+                            {{ $display_name = "Video" }}
+                        {{ else if eq (lower $link_name) "dataset" }}
+                            {{ $display_name = "Dataset" }}
+                        {{ end }}
+                        <a class="main_color text-decoration-none rounded" href="{{$link_url}}" target="_blank">{{ markdownify (emojify $display_name) }}</a>
+                        {{ $link_count = add $link_count 1 }}
                     {{end}}
                 {{end}}
             </div>

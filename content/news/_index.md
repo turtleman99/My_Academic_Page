@@ -11,15 +11,15 @@ default_news_icon: "file-text"
 num_news: 5
 
 news_items:
-- text: "NEW preprint on arXiv, [Beyond Distance: Mobility Neural Embeddings Reveal Visible and Invisible Barriers in Urban Space](https://arxiv.org/abs/2506.24061)!"
+- text: "New preprint on arXiv: [Beyond Distance: Mobility Neural Embeddings Reveal Visible and Invisible Barriers in Urban Space](https://arxiv.org/abs/2506.24061)!"
   extra_text: "July, 2025"
-- text: One extended abstract is accepted to [Netmob'2025](https://netmob.org) for oral presentation.
+- text: One extended abstract was accepted to [Netmob'2025](https://netmob.org) for oral presentation.
   extra_text: "July, 2025"
-- text: One extended abstract is accepted to [IC2S2'2025](https://ic2s2-2025.org) as a plenary talk (1.5%).
+- text: One extended abstract was accepted to [IC2S2'2025](https://ic2s2-2025.org) as a plenary talk (1.5%).
   extra_text: "April, 2025"
-- text: One extended abstract is accepted to [Netmob'2024](https://netmob.org) for oral presentation. See you in DC in October!
+- text: One extended abstract was accepted to [Netmob'2024](https://netmob.org) for oral presentation. See you in DC in October!
   extra_text: "Oct., 2024"
-- text: One extended abstract is accepted to [IC2S2'2024](https://ic2s2-2024.org) as a plenary talk (2.8%).
+- text: One extended abstract was accepted to [IC2S2'2024](https://ic2s2-2024.org) as a plenary talk (2.8%).
   extra_text: "April, 2024"
 - text: Invited to [SICSS-Penn'2024](https://sicss.io/2024/penn/) (about 40 invitees). See you in Philadelphia in July!
   extra_text: "April, 2024"
