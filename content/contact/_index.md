@@ -18,7 +18,7 @@ news_items:
 - text: +1 302 364 6860
   date: 2020-01-01
   icon: "phone"
-- text: 177 Huntington Ave, 22nd Floor, Boston, MA 02115
+- text: 177 Huntington Ave, 2nd Floor, Boston, MA 02115
   date: 2019-07-01
   icon: "map-pin"
 ---

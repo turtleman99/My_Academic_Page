@@ -44,8 +44,9 @@ academia:
 ---
 
 I am Guangyuan Weng (<font face=STKaiti>翁光源</font>), a Ph.D. student in Computer Science at [Northeastern University][1]. 
+I am fortunate to be advised by [Prof. Esteban Moro][8].
 My research interest lies broadly in computational social science, data mining, and deep learning.
-I am particularly fascinated by the intricate relationship between human mobility and urban economies and aspire to explore this area in depth. 
+I am particularly fascinated by the intricate relationship between human mobility and urban social fabric. 
 Previously, my focus was on advancing long-tail image recognition and enhancing visual reasoning through representation learning.
 
 
@@ -59,3 +60,4 @@ My academic roots trace back to [ShanghaiTech University][7], where I completed 
 [5]: https://robotics.shanghaitech.edu.cn/people/soeren
 [6]: https://robotics.shanghaitech.edu.cn/
 [7]: https://www.shanghaitech.edu.cn/eng/
+[8]: https://estebanmoro.org
