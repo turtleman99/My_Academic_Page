@@ -18,9 +18,10 @@ socials:
     instagram: "gideon.weng"
 
 interests:
-    - Computational Social Science
+    - Responsible AI
+    - GeoAI
     - Data Mining
-    - Deep Learning
+    - Computational Social Science
 
 affiliations:
     - affiliation:
@@ -45,7 +46,7 @@ academia:
 
 I am Guangyuan Weng (<font face=STKaiti>翁光源</font>), a Ph.D. student in Computer Science at [Northeastern University][1]. 
 I am fortunate to be advised by [Prof. Esteban Moro][8].
-My research interest lies broadly in computational social science, data mining, and deep learning.
+My research interest lies broadly in Responsible AI, GeoAI, data mining, and computational social science.
 I am particularly fascinated by the intricate relationship between human mobility and urban social fabric. 
 Previously, my focus was on advancing long-tail image recognition and enhancing visual reasoning through representation learning.
 
