@@ -44,7 +44,7 @@ academia:
         # other_info: 'graduated without first class honor, supervised by Prof. Very Cool!'
 ---
 
-I am Guangyuan Weng (<font face=STKaiti>翁光源</font>), a Ph.D. student in Computer Science at [Northeastern University][1]. 
+I am Guangyuan Weng (<font face=STKaiti>翁光源</font>), a Ph.D. candidate in Computer Science at [Northeastern University][1]. 
 I am fortunate to be advised by [Prof. Esteban Moro][8].
 My research interest lies broadly in Responsible AI, GeoAI, data mining, and computational social science.
 I am particularly fascinated by the intricate relationship between human mobility and urban social fabric. 
