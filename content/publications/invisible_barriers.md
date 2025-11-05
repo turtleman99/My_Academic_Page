@@ -11,7 +11,7 @@ publication: "(Under Review)"
 
 links:
     PDF: https://arxiv.org/pdf/2506.24061
-    DOI: 'https://doi.org/10.48550/arXiv.2208.07344'
+    DOI: 'https://doi.org/10.48550/arXiv.2506.24061'
     Code: https://github.com/SUNLab-NetSI/invisible_barriers
     # slides: https://github.com/hadisinaee/avicenna
     # video: https://github.com/hadisinaee/avicenna
