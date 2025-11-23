@@ -15,6 +15,8 @@ news_items:
   extra_text: "July, 2025"
 - text: One extended abstract was accepted to [Netmob'2025](https://netmob.org) for oral presentation.
   extra_text: "July, 2025"
+- text: One paper was accepted to [NetSci'2025](https://netsci2025.github.io/) as a contributed oral talk.
+  extra_text: "April, 2025"
 - text: One extended abstract was accepted to [IC2S2'2025](https://ic2s2-2025.org) as a plenary talk (1.5%).
   extra_text: "April, 2025"
 - text: One extended abstract was accepted to [Netmob'2024](https://netmob.org) for oral presentation. See you in DC in October!
