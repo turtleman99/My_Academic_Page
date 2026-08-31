@@ -44,6 +44,10 @@ academia:
         # other_info: 'graduated without first class honor, supervised by Prof. Very Cool!'
 ---
 
+<div style="border: 1px solid #8C1515; border-left: 4px solid #8C1515; border-radius: 4px; padding: 0.75rem 1rem; margin-bottom: 1.25rem;">
+<strong style="color: #8C1515;">🔎 I am on the 2026-2027 job market</strong>, seeking <strong>Applied Scientist</strong> / <strong>Machine Learning Engineer</strong> positions. Feel free to <a href="mailto:gweng.aca@gmail.com">reach out</a>!
+</div>
+
 I am Guangyuan Weng (<font face=STKaiti>翁光源</font>), a Ph.D. candidate in Computer Science at [Northeastern University][1]. 
 I am fortunate to be advised by [Prof. Esteban Moro][8].
 My research interest lies broadly in Responsible AI, GeoAI, data mining, and computational social science.

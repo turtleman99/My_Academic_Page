@@ -8,9 +8,12 @@ headless: true
 show_news_icons: true
 default_news_icon: "award"
 
-num_news: 5
+num_news: 6
 
 news_items:
+- text: Outstanding PhD Student Award for Teaching
+  extra_text: "Northeastern University, 2026"
+  date: 2026-04-15
 - text: Global Talent Attraction Program, International Summer Research Fellowship ($ 4,000)
   extra_text: "Indiana University Bloomington, 2020"
   date: 2020-02-20

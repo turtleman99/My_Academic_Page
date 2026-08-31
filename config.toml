@@ -20,6 +20,10 @@ pagerSize = 10
 ignoreLogs = ['warning-goldmark-raw-html']
 
 [markup]
+[markup.goldmark.renderer]
+# allow raw HTML in content (own-authored site)
+unsafe = true
+
 [markup.tableOfContents]
 endLevel = 3
 ordered = false
