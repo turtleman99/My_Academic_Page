@@ -1,0 +1,8 @@
+# Netlify's build image no longer preinstalls Hugo; HUGO_VERSION pins the
+# binary it downloads. Must be >= 0.128 for [pagination].pagerSize.
+[build]
+  command = "hugo --gc --minify -b $URL"
+  publish = "public"
+
+[build.environment]
+  HUGO_VERSION = "0.148.2"
