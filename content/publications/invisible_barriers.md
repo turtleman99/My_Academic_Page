@@ -8,6 +8,7 @@ authors:
 date: "2025-07-01"
 
 publication: "(Under Review)"
+highlight: "Learned mobility embeddings from 25.4M trajectories across 11 US metros; embedding distance predicts flows far better than physical distance (R2 0.61 vs. 0.33)."
 
 links:
     PDF: https://arxiv.org/pdf/2506.24061

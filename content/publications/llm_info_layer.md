@@ -7,6 +7,7 @@ authors:
 date: "2026-07-07"
 
 publication: "(Under Review)"
+highlight: "Audited three LLM families over 304 neighborhoods in five cities: 36.8% of recommended venues are fabricated, and 47.5% of real venues are never surfaced."
 
 links:
     PDF: https://arxiv.org/pdf/2607.06260

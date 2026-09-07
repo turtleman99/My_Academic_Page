@@ -15,7 +15,4 @@ news_items:
   link: mailto:gweng.aca@gmail.com
   date: 2020-02-20
   icon: "mail"
-- text: +1 302 364 6860
-  date: 2020-01-01
-  icon: "phone"
 ---

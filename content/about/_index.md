@@ -13,7 +13,7 @@ blog: true
 
 socials:
     # twitter: "GuangyuanWeng"
-    # github: "turtleman99"
+    github: "turtleman99"
     linkedin: "guangyuan-weng-a97838166"
     google_scholar: "citations?hl=en&user=A7Aqv0cAAAAJ"
     # instagram: "gideon.weng"
