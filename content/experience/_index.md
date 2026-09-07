@@ -12,7 +12,7 @@ num_news: 6
 
 news_items:
 - text: "Research Scientist II Intern, [Chewy](https://www.chewy.com)"
-  extra_text: "June 2026 - Aug. 2026"
+  extra_text: "Summer 2026"
   date: 2026-06-01
 - text: "Research Intern, [Wormpex AI Research](http://research.wormpex.com/), Bellevue WA"
   extra_text: "Summer 2023"
