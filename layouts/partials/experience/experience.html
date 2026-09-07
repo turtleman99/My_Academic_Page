@@ -1,2 +1,38 @@
-{{/* Same list rendering as honors; that partial resolves its page from .Params.content_type. */}}
-{{ partial "honors/honors.html" . }}
+{{/* Like the honors list, but the scope sentence drops to its own line and
+     indents to the first character of the entry rather than to the icon.
+     Flex handles the alignment so there is no icon-width magic number. */}}
+
+{{ $content_type := .Params.content_type }}
+{{ $page := .Site.GetPage $content_type }}
+
+{{ $show_icons := $page.Params.show_news_icons }}
+{{ $default_icon := "" }}
+{{ if $show_icons }}
+{{ $default_icon = $page.Params.default_news_icon }}
+{{ end }}
+
+<div class="news row w-100">
+    <div class="col w-100">
+        <ul class="news_list">
+            {{ range $item := sort $page.Params.news_items "date" "desc" }}
+            <li style="display: flex; align-items: flex-start; gap: .4rem; margin-bottom: .6rem;">
+                {{ if $show_icons }}
+                <span style="flex: 0 0 auto; line-height: 1.6;">
+                    <i data-feather="{{ default $default_icon $item.icon }}"></i>
+                </span>
+                {{ end }}
+
+                <span style="flex: 1 1 auto; min-width: 0;">
+                    {{ markdownify (emojify $item.text) }}
+
+                    {{ with $item.extra_text }}
+                    <div class="text-muted" style="line-height: 1.5;">
+                        {{ markdownify (emojify .) }}
+                    </div>
+                    {{ end }}
+                </span>
+            </li>
+            {{ end }}
+        </ul>
+    </div>
+</div>
