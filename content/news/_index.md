@@ -11,6 +11,9 @@ default_news_icon: "file-text"
 num_news: 5
 
 news_items:
+- text: "My summer intern project at [Chewy](https://www.chewy.com), a multimodal GenAI system for creative understanding, was presented to Chewy's Chief Brand Officer and marketing leadership team."
+  extra_text: "Sept., 2026"
+  date: 2026-09-01
 - text: "New preprint on arXiv: [Large language models create an uneven informational layer over cities](https://arxiv.org/abs/2607.06260)!"
   extra_text: "July, 2026"
   date: 2026-07-07
