@@ -6,3 +6,12 @@
 
 [build.environment]
   HUGO_VERSION = "0.148.2"
+
+# The .netlify.app hostname keeps serving the site after a custom domain is
+# set as primary, so force it to the canonical one. Published papers link to
+# the old host and should land on the domain we own.
+[[redirects]]
+  from = "https://gweng.netlify.app/*"
+  to = "https://www.guangyuanweng.com/:splat"
+  status = 301
+  force = true
