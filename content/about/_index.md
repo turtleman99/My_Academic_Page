@@ -19,9 +19,10 @@ socials:
     # instagram: "gideon.weng"
 
 interests:
+    - Generative AI & LLMs
+    - Recommender Systems
+    - Representation Learning
     - Responsible AI
-    - GeoAI
-    - Data Mining
     - Computational Social Science
 
 affiliations:
@@ -44,24 +45,20 @@ academia:
 ---
 
 <div style="border: 1px solid #8C1515; border-left: 4px solid #8C1515; border-radius: 4px; padding: 0.75rem 1rem; margin-bottom: 1.25rem;">
-<strong style="color: #8C1515;">🔎 I am on the 2026-2027 job market</strong>, seeking <strong>Applied Scientist</strong> / <strong>Machine Learning Engineer</strong> positions. Feel free to <a href="mailto:gweng.aca@gmail.com">reach out</a>!
+<strong style="color: #8C1515;">🔎 I am on the 2026-2027 job market</strong>, seeking <strong>Research Scientist</strong> / <strong>Applied Scientist</strong> positions. Feel free to <a href="mailto:gweng.aca@gmail.com">reach out</a>!
 </div>
 
-I'm a Ph.D. candidate in Computer Science at [Northeastern University][1]. 
-I am fortunate to be advised by [Prof. Esteban Moro][8].
-My research interest lies broadly in Responsible AI, GeoAI, data mining, and computational social science.
-I am particularly fascinated by the intricate relationship between human mobility and urban social fabric. 
-Previously, my focus was on advancing long-tail image recognition and enhancing visual reasoning through representation learning.
+I'm a Ph.D. candidate in Computer Science at [Northeastern University][1], advised by [Prof. Esteban Moro][8].
+I build and audit the deep learning and generative models that increasingly shape how people see and move through cities, with work across representation learning, large language models, recommender systems, spatiotemporal data mining, and responsible AI.
+Most recently I was a Research Scientist II Intern at [Chewy][9], and previously at [Wormpex AI Research][10].
 
-
-Prior to Northeastern, I gained valuable experience as a research intern at the [IU Computer Vision Lab][3] under the mentorship of [Prof. David J. Crandall][4]. 
-Before that, I worked with [Prof. Sören Schwertfeger][5] as a research assistant at [The Mobile Autonomous Robotic Systems Lab][6]. 
-My academic roots trace back to [ShanghaiTech University][7], where I completed my B.E. degree in July 2021.
+Earlier, I worked on action recognition and visual representation learning at the [IU Computer Vision Lab][3] with [Prof. David J. Crandall][4], and on robotics and SLAM with [Prof. Sören Schwertfeger][5] at the [Mobile Autonomous Robotic Systems Lab][6].
 
 [1]: https://www.northeastern.edu/
 [3]: http://vision.soic.indiana.edu/
 [4]: https://homes.luddy.indiana.edu/djcran/
 [5]: https://robotics.shanghaitech.edu.cn/people/soeren
 [6]: https://robotics.shanghaitech.edu.cn/
-[7]: https://www.shanghaitech.edu.cn/eng/
 [8]: https://estebanmoro.org
+[9]: https://www.chewy.com
+[10]: http://research.wormpex.com/
