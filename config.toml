@@ -1,7 +1,6 @@
-baseURL = "https://gweng.netlify.app/"
+baseURL = "https://www.guangyuanweng.com/"
 
-# set your your own ga token here.
-googleAnalytics = "UA/G-123123-12"
+googleAnalytics = "G-8Y08N3DM03"
 
 languageCode = "en-us"
 

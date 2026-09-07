@@ -1,7 +1,7 @@
 ---
 title: "Beyond Distance: Mobility Neural Embeddings Reveal Visible and Invisible Barriers in Urban Space"
 authors:
-  - "**[Guangyuan Weng](https://gweng.netlify.app/)**"
+  - "**[Guangyuan Weng](https://www.guangyuanweng.com/)**"
   - "[Minsuk Kim](https://sites.google.com/view/danielhankim/home)"
   - "[Yong-Yeol Ahn](https://yongyeol.com)"
   - "[Esteban Moro](https://estebanmoro.org)"

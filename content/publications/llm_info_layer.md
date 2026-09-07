@@ -2,7 +2,7 @@
 title: "Large language models create an uneven informational layer over cities"
 authors:
   - "[Lin Chen](https://linchen-65.github.io/research/)"
-  - "**[Guangyuan Weng](https://gweng.netlify.app/)**"
+  - "**[Guangyuan Weng](https://www.guangyuanweng.com/)**"
   - "[Esteban Moro](https://estebanmoro.org)"
 date: "2026-07-07"
 

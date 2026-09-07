@@ -8,7 +8,7 @@ authors:
   - Zehao Zhao
   - Haochuan Wan
   - Xiaoya Ye
-  - "**[Guangyuan Weng](https://gweng.netlify.app/)**"
+  - "**[Guangyuan Weng](https://www.guangyuanweng.com/)**"
   - Zhenpeng He 
   - Tian Dong
   - "[Sören Schwertfeger](https://robotics.shanghaitech.edu.cn/people/soeren)"
