@@ -4,18 +4,19 @@ date: 2020-10-20T17:51:47+03:30
 draft: false
 headless: true
 
-full_name: "Guangyuan Weng "
+full_name: "Guangyuan Weng"
+full_name_zh: "翁光源"
 profile_picture: "profile.jpg"
 cv: "CV_Weng.pdf"
 # set to false if you don't want to show your blog
 blog: true
 
 socials:
-    twitter: "GuangyuanWeng"
-    github: "turtleman99"
+    # twitter: "GuangyuanWeng"
+    # github: "turtleman99"
     linkedin: "guangyuan-weng-a97838166"
     google_scholar: "citations?hl=en&user=A7Aqv0cAAAAJ"
-    instagram: "gideon.weng"
+    # instagram: "gideon.weng"
 
 interests:
     - Responsible AI
@@ -25,8 +26,6 @@ interests:
 
 affiliations:
     - affiliation:
-        title: "Ph.D. Student"
-        name: "Northeastern University"
         email: "gweng.aca AT gmail.com"
 
 academia:
@@ -48,7 +47,7 @@ academia:
 <strong style="color: #8C1515;">🔎 I am on the 2026-2027 job market</strong>, seeking <strong>Applied Scientist</strong> / <strong>Machine Learning Engineer</strong> positions. Feel free to <a href="mailto:gweng.aca@gmail.com">reach out</a>!
 </div>
 
-I am Guangyuan Weng (<font face=STKaiti>翁光源</font>), a Ph.D. candidate in Computer Science at [Northeastern University][1]. 
+I'm a Ph.D. candidate in Computer Science at [Northeastern University][1]. 
 I am fortunate to be advised by [Prof. Esteban Moro][8].
 My research interest lies broadly in Responsible AI, GeoAI, data mining, and computational social science.
 I am particularly fascinated by the intricate relationship between human mobility and urban social fabric. 
