@@ -45,7 +45,7 @@ academia:
 ---
 
 <div style="border: 1px solid #8C1515; border-left: 4px solid #8C1515; border-radius: 4px; padding: 0.75rem 1rem; margin-bottom: 1.25rem;">
-<strong style="color: #8C1515;">🔎 I am on the 2026-2027 job market</strong>, seeking <strong>Research Scientist</strong> / <strong>Applied Scientist</strong> positions. Feel free to <a href="mailto:gweng.aca@gmail.com">reach out</a>!
+<strong style="color: #8C1515;">🔎 I am on the 2026-2027 job market</strong>, seeking full-time <strong>Research Scientist</strong> / <strong>Applied Scientist</strong> positions, and I am also open to <strong>Summer 2027 internships</strong>. Feel free to <a href="mailto:gweng.aca@gmail.com">reach out</a>!
 </div>
 
 I'm a Ph.D. candidate in Computer Science at [Northeastern University][1], advised by [Prof. Esteban Moro][8].
