@@ -11,6 +11,9 @@ default_news_icon: "file-text"
 num_news: 5
 
 news_items:
+- text: "Gave a talk on [Beyond Distance: Mobility Neural Embeddings](https://arxiv.org/abs/2506.24061) at the [eMERGE seminar](https://yi-ju.me/eMERGE) at UC Berkeley. Watch the [recording](https://www.youtube.com/live/xdYS_2u3lP8)."
+  extra_text: "Oct., 2026"
+  date: 2026-10-19
 - text: "My summer intern project at [Chewy](https://www.chewy.com), a multimodal GenAI system for creative understanding, was presented to Chewy's Chief Brand Officer and marketing leadership team."
   extra_text: "Sept., 2026"
   date: 2026-09-01
