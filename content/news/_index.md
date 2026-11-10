@@ -11,6 +11,9 @@ default_news_icon: "file-text"
 num_news: 5
 
 news_items:
+- text: "Our paper [Beyond Distance: Mobility Neural Embeddings Reveal Visible and Invisible Barriers in Urban Space](https://arxiv.org/abs/2506.24061) was accepted to *Science Advances*!"
+  extra_text: "Nov., 2026"
+  date: 2026-11-10
 - text: "NetSI featured my [Chewy internship story](https://www.networkscienceinstitute.org/news/guangyuan-weng-brings-network-intelligence-to-chewy), highlighting how I applied multimodal AI and network thinking to creative understanding."
   extra_text: "Oct., 2026"
   date: 2026-10-30

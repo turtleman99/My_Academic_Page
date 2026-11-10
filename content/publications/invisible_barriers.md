@@ -5,7 +5,9 @@ authors:
   - "[Minsuk Kim](https://sites.google.com/view/danielhankim/home)"
   - "[Yong-Yeol Ahn](https://yongyeol.com)"
   - "[Esteban Moro](https://estebanmoro.org)"
-date: "2025-07-01"
+date: "2026-11-10"
+
+publication: "Science Advances (accepted)"
 
 highlight: "Learned mobility embeddings from 25.4M trajectories across 11 US metros; embedding distance predicts flows far better than physical distance (R2 0.61 vs. 0.33)."
 
