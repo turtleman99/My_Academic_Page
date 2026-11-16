@@ -9,7 +9,7 @@ date: "2026-11-10"
 
 publication: "Science Advances (accepted)"
 
-highlight: "Learned mobility embeddings from 25.4M trajectories across 11 US metros; embedding distance predicts flows far better than physical distance (R2 0.61 vs. 0.33)."
+highlight: "Learned neural place embeddings from 25.4M trajectories in 11 US cities, treating places as tokens and visit sequences as sentences; embedding distance explains mobility flows far better than map distance (R² 0.61 vs. 0.33 in Boston)."
 
 links:
     PDF: https://arxiv.org/pdf/2506.24061

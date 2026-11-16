@@ -12,7 +12,9 @@ authors:
   - "[Esteban Moro](https://estebanmoro.org)"
 date: "2026-10-30"
 
-highlight: "Simulated recommendation feedback loops across four US metros, revealing a trade-off between accuracy and income segregation; promoting less popular venues mitigates segregation and loss of visits."
+publication: "Under review"
+
+highlight: "Built a realistic simulation of next-place recommenders in four US metros: the most accurate recommender raises income segregation by 15 to 21% and leaves 1 in 5 venues with no visits; promoting less popular venues more than halves venue loss."
 
 links:
     PDF: https://arxiv.org/pdf/2610.41911

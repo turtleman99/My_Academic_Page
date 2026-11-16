@@ -6,7 +6,9 @@ authors:
   - "[Esteban Moro](https://estebanmoro.org)"
 date: "2026-07-07"
 
-highlight: "Audited three LLM families over 304 neighborhoods in five cities: 36.8% of recommended venues are fabricated, and 47.5% of real venues are never surfaced."
+publication: "Under review"
+
+highlight: "End-to-end evaluation of venue recommendations from three LLM families across 304 neighborhoods in five US cities: 36.8% of recommended venues do not exist, and even with real venue lists, 47.5% of venues are never recommended."
 
 links:
     PDF: https://arxiv.org/pdf/2607.06260

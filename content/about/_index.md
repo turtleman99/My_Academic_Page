@@ -19,11 +19,11 @@ socials:
     # instagram: "gideon.weng"
 
 interests:
-    - Generative AI & LLMs
+    - LLM Post-training & Evaluation
     - Recommender Systems
     - Representation Learning
+    - Spatiotemporal Data Mining
     - Responsible AI
-    - Computational Social Science
 
 affiliations:
     - affiliation:
@@ -49,7 +49,8 @@ academia:
 </div>
 
 I'm a Ph.D. candidate in Computer Science at [Northeastern University][1], advised by [Prof. Esteban Moro][8].
-I build and audit the deep learning and generative models that increasingly shape how people see and move through cities, with work across representation learning, large language models, recommender systems, spatiotemporal data mining, and responsible AI.
+I study how LLMs and recommender systems model and shape where people go, with work on LLM post-training, evaluation, and representation learning.
+I also work with [Prof. David Bau][11] on LLM interpretability.
 Most recently I was a Research Scientist II Intern at [Chewy][9], and previously at [Wormpex AI Research][10].
 
 Earlier, I worked on action recognition and visual representation learning at the [IU Computer Vision Lab][3] with [Prof. David J. Crandall][4], and on robotics and SLAM with [Prof. Sören Schwertfeger][5] at the [Mobile Autonomous Robotic Systems Lab][6].
@@ -62,3 +63,4 @@ Earlier, I worked on action recognition and visual representation learning at th
 [8]: https://estebanmoro.org
 [9]: https://www.chewy.com
 [10]: http://research.wormpex.com/
+[11]: https://baulab.info
